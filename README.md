@@ -21,3 +21,6 @@ Instala todos los paquetes necesarios
 #### node app.js
 
 Para correr la aplicacion en un entorno local
+
+### Abrir en el navegador
+http://localhost:5000
