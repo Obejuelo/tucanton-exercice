@@ -9,8 +9,8 @@ const index = (req, res) => {
 }
 
 const find = (req, res) => {
-    let id = req.params.id
-	Usuario.findOne({'_id': id})
+    let equipoId = req.params.id
+	Usuario.fin({equipoId})
 		.then(data => {
 			res.json(data)
 		})
