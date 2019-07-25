@@ -3,6 +3,7 @@
 ### Instalar MongoDB
 
 Ya que fué la DB que se utilizó
+La base de datos se crea al insertar el primer registro
 
 [MongoDB link](https://www.mongodb.com/download-center/community)
 
@@ -24,3 +25,14 @@ Para correr la aplicacion en un entorno local
 
 ### Abrir en el navegador
 http://localhost:5000
+
+#### Herramientas utilizadas
+
+NodeJs
+React
+Bootstrap
+
+
+#### Repositorio de la vista en React
+
+[tu cantón exercice React link](https://github.com/Obejuelo/tucanton-ui)
